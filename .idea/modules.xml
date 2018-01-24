@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MobilePlayer.iml" filepath="$PROJECT_DIR$/MobilePlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MobilePlayer.iml" filepath="$PROJECT_DIR$/.idea/MobilePlayer.iml" />
+      <module fileurl="file://H:\studioprojects\MobilePlayer\MobilePlayer.iml" filepath="H:\studioprojects\MobilePlayer\MobilePlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\studioprojects\MobilePlayer\app\app.iml" filepath="H:\studioprojects\MobilePlayer\app\app.iml" />
     </modules>
   </component>
 </project>
